@@ -1,6 +1,6 @@
 {
   "device": "STM32F042T6Y6TR",
-  "toolchain": "GCC",
+  "toolchain": "CLANG",
   "core": "Cortex-M0",
   "order": 0
 }
